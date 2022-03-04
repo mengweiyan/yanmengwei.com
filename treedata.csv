@@ -1,0 +1,29 @@
+id,value
+objects,
+objects.vegetable,
+objects.vegetable.rutabaga,3938
+objects.vegetable.leek,3812
+objects.vegetable.melon,6714        
+objects.vegetable.edible mushroom,743            
+objects.vegetable.root vegetable,3534              
+flare.analytics.optimization.AspectRatioBanker,7074     
+objects.landscape,      
+objects.landscape.reef,17010      
+objects.landscape.massif,5842     
+objects.landscape.landform,      
+objects.landscape.landform.isthmus,1983        
+objects.landscape.landform.cliff,2047        
+objects.landscape.landform.escarpment,1375     
+objects.landscape.landform.Badlands,8746     
+objects.product,
+objects.product.infrastructure,3938
+objects.product.scaffold,3812
+objects.product.software,6714        
+objects.product.carpet,743    
+objects.product.processor,743    
+objects.product.toy,      
+objects.product.toy.sex toy,1983        
+objects.product.toy.action figure,2047        
+objects.product.toy.doll,     
+objects.product.toy.doll Barbie,2047     
+objects.product.toy.doll mannequin,2047
